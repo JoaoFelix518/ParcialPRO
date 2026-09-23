@@ -59,6 +59,7 @@ classDiagram
     Libro <|-- LibroTexto : Herencia
     LibroTexto <|-- LibroTextoUNIAC : Herencia
     Libro <|-- Novela : Herencia
+```
 
     1. Situaciones donde NO se podría realizar la herencia 
 Uso del modificador final en la clase base:
